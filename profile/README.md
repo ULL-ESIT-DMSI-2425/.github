@@ -1,4 +1,4 @@
-Bienvenido a la Organización GitHub de la asignatura *Desarrollo y Mantenimiento de Sistemas de Información* de la ULL que se imparte durante el primer cuatrimestre del Curso 2023/2024
+Bienvenido a la Organización GitHub de la asignatura *Desarrollo y Mantenimiento de Sistemas de Información* de la ULL que se imparte durante el primer cuatrimestre del Curso 2024/2025
  
  * [Apuntes](https://ull-esit-dmsi-2425.github.io/)
  * [Aula en el Campus virtual](https://campusingenieriaytecnologia2425.ull.es/course/view.php?id=2425090033)
